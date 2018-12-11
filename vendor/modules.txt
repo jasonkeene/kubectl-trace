@@ -79,7 +79,7 @@ github.com/spf13/cobra
 github.com/spf13/pflag
 # golang.org/x/crypto v0.0.0-20181112202954-3d3f9f413869
 golang.org/x/crypto/ssh/terminal
-# golang.org/x/net v0.0.0-20181114220301-adae6a3d119a
+# golang.org/x/net v0.0.0-20181201002055-351d144fa1fc
 golang.org/x/net/http2
 golang.org/x/net/http/httpguts
 golang.org/x/net/http2/hpack
@@ -262,7 +262,7 @@ k8s.io/client-go/third_party/forked/golang/template
 # k8s.io/kube-openapi v0.0.0-20181114233023-0317810137be
 k8s.io/kube-openapi/pkg/util/proto
 k8s.io/kube-openapi/pkg/util/proto/validation
-# k8s.io/kubernetes v1.12.2
+# k8s.io/kubernetes v1.12.3
 k8s.io/kubernetes/pkg/kubectl/util/term
 k8s.io/kubernetes/pkg/kubectl/cmd/util/openapi
 k8s.io/kubernetes/pkg/kubectl/cmd/util/openapi/validation
